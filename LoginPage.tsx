@@ -1,6 +1,6 @@
 import React from 'react';
 
-const page: React.FC = () => {
+const LoginPage: React.FC = () => {
   return (
     <div className="min-h-screen w-full flex items-center justify-center relative font-sans">
       {/* Background Split */}
@@ -107,4 +107,5 @@ const page: React.FC = () => {
   );
 };
 
-export default page;
+
+export default LoginPage;
