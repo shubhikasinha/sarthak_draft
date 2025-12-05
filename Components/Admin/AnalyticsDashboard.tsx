@@ -2,8 +2,8 @@ import React from 'react';
 import { Users, CheckCircle, UserCheck, Briefcase, ChevronDown, User, ShieldCheck } from 'lucide-react';
 import Component from '../test/Component';
 // Import the new chart components
-import DepartmentDistributionChart from './DepartmentDistributionChart';
-import GraduationYearTrendsChart from './GraduationYearTrendsChart';
+import DepartmentDistributionChart from '../DepartmentDistributionChart';
+import GraduationYearTrendsChart from '../GraduationYearTrendsChart';
 
 // Color Palette: Strictly derived from Dark Blue (#030e29)
 
