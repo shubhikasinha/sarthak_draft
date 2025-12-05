@@ -1,0 +1,4 @@
+npm install lucide-react
+npm install lucide-react recharts clsx tailwind-merge
+npm install useState
+npm install recharts
